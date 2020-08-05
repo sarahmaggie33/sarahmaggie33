@@ -12,7 +12,7 @@
 
 I'm a Software Engineer from the USA. I like to work fullstack, but my focus at the time is client applications. Currently, I'm working on iOS and macOS applications in Swift. When I'm not programming, I love being outside: running, biking, camping, climbing, and traveling.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0MYII7vx3jZTG3Oo/giphy.gif" />
 
 **Current Status Quo**
 
